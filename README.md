@@ -12,7 +12,7 @@ Gerenciamento de indisciplinas de alunos e dificuldade de avisar os pais.
 |o impacto do problema é|Falta de controle do comportamento dos alunos, pais desinformados.|
 |uma solução seria|Criar um sistema digital para registrar ocorrências, organizar o histórico dos alunos e enviar notificações automáticas aos responsáveis, garantindo comunicação rápida, eficiente e centralizada.|
 ## 2.2 Problemas a serem resolvidos
-|   |   |
+|Problema   |Descrição   |
 |---|---|
 |Demora para avisar os pais|A comunicação com os responsáveis é lenta e, muitas vezes, não acontece, dificultando o acompanhamento.|
 
@@ -39,20 +39,24 @@ O sistema será uma aplicação escolar que centraliza o gerenciamento disciplin
 •Painel para visualização do histórico disciplinar.
 
 •Área do responsável com login para acompanhar o aluno.
-# 6. Restrições
-## 6.1 Restrições de Design
+# 6. Caso de Uso
+
+## 6.1 Diagrama de Casos de Uso
+## 6.2 Fluxos de Casos de Uso
+# 7. Restrições
+## 7.1 Restrições de Design
 •Interface simples e intuitiva para facilitar uso por professores.
 
 •Cores neutras e layout acessível.
 
 •Compatibilidade com dispositivos móveis e desktop.
-## 6.2 Restrições de Segurança
+## 7.2 Restrições de Segurança
 •Dados dos alunos devem ser protegidos por criptografia.
 
 •Acesso ao sistema somente por usuários autorizados.
 
 •Logs de atividade para auditoria.
-## 6.3 Restrições de Metodologia (Processos e Ferramentas)
+## 7.3 Restrições de Metodologia (Processos e Ferramentas)
 •Uso de banco de dados seguro para armazenamento de informações.
 
 •Atualizações e manutenção periódicas.
