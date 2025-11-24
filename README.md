@@ -44,7 +44,39 @@ O sistema será uma aplicação escolar que centraliza o gerenciamento disciplin
 # 6. Caso de Uso
 
 ## 6.1 Diagrama de Casos de Uso
-## 6.2 Fluxos de Casos de Uso
+![Image](https://github.com/user-attachments/assets/36658c47-7da7-4bd9-ba59-1abc404f8572)
+## 6.2 Fluxos dos Casos de Uso
+
+### Registrar Ocorrência
+- **Atores:** Professor, Coordenador  
+- **Descrição:** Registrar uma ocorrência disciplinar no sistema.
+- **Fluxo:**
+  1. O usuário acessa o sistema.
+  2. Seleciona o aluno.
+  3. Preenche os dados da ocorrência.
+  4. O sistema salva a ocorrência.
+
+---
+
+### Consultar Histórico
+- **Atores:** Aluno, Responsável, Coordenador  
+- **Descrição:** Consultar o histórico de ocorrências do aluno.
+- **Fluxo:**
+  1. O usuário acessa o sistema.
+  2. Busca o aluno.
+  3. O sistema exibe o histórico.
+
+---
+
+### Notificar Responsável
+- **Atores:** Sistema  
+- **Descrição:** Enviar notificação ao responsável após registro da ocorrência.
+- **Fluxo:**
+  1. Uma ocorrência é registrada.
+  2. O sistema identifica o responsável.
+  3. O sistema envia a notificação.
+  4. O envio é registrado pelo sistema.
+
 # 7. Restrições
 ## 7.1 Restrições de Design
 •Interface simples e intuitiva para facilitar uso por professores.
