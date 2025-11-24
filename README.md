@@ -15,6 +15,8 @@ Gerenciamento de indisciplinas de alunos e dificuldade de avisar os pais.
 |Problema   |Descrição   |
 |---|---|
 |Demora para avisar os pais|A comunicação com os responsáveis é lenta e, muitas vezes, não acontece, dificultando o acompanhamento.|
+|Perda de informações importantes|Registros feitos em papel podem ser perdidos, danificados ou esquecidos.|
+|Sobrecarga da coordenação|A coordenação precisa buscar informações manualmente, gastando tempo e aumentando erros.|
 
 # 3. Descrição da Parte Interessada e do Usuário
 •Escola (Direção e Coordenação): deseja registrar e acompanhar as ocorrências de forma eficiente.
