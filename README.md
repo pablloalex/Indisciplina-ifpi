@@ -68,7 +68,7 @@ O sistema será uma aplicação web responsiva (compatível com dispositivos mó
 
 ![Diagrama de Casos de Uso](https://github.com/user-attachments/assets/36658c47-7da7-4bd9-ba59-1abc404f8572)
 
-*Nota: O diagrama deve ser atualizado para incluir os atores "Direção de Ensino" e "Direção Geral", bem como os casos de uso "Assinar Penalidade" e "Registrar Ciência".*
+
 
 ## 6.2 Fluxos dos Casos de Uso
 
